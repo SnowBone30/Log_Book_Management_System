@@ -22,5 +22,20 @@ LogiTrack
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:LogiTrack.My.Resources.Resources.notebook">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LogiTrack.My.Resources.Resources.notebook__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LogiTrack.My.Resources.Resources.notebook__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
